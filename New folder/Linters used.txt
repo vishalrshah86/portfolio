@@ -1,0 +1,22 @@
+Linters used (plug-ins for Atom)
+- W3C-validator
+- linter-stylelint
+
+
+Issues during Cross Browser Testing: tested on Windows 10 and Mac OSX 10.14
+
+Chrome 90: none
+Firefox 88: none
+Microsoft Edge 90: none
+Internet Explorer 11: none
+Opera 71: none
+Safari 12: none
+
+On CSS linter, I got warnings. 
+
+
+
+
+
+
+
